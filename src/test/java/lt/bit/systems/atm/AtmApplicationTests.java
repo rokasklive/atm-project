@@ -1,4 +1,4 @@
-package lt.bit.systems.atm.atm;
+package lt.bit.systems.Atm;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
